@@ -1,4 +1,4 @@
-# [![PAC_Conection_Sockets](https://github.com/Zafion/PAC_Conection_Sockets)](https://github.com/Zafion/PAC_Conection_Sockets) Comunicación mediante sockets entre un cliente y un servidor
+# [![PAC_Conection_Sockets](https://github.com/Zafion/PAC_Ap_Gest_Gastos/blob/main/recursos/java_36.png)](https://github.com/Zafion/PAC_Conection_Sockets) Comunicación mediante sockets entre un cliente y un servidor
 
 Desarrollado con Java usando el IDE Eclipse.
 
