@@ -1,11 +1,11 @@
 # [![PAC_Conection_Sockets](https://github.com/Zafion/PAC_Ap_Gest_Gastos/blob/main/recursos/java_36.png)](https://github.com/Zafion/PAC_Conection_Sockets) Comunicación mediante sockets entre un cliente y un servidor
 
-Desarrollado con Java usando el IDE Eclipse.
+Desarrollada con Java utilizando el IDE Eclipse.
 
-Trabajo de desarrollo realizado durante la formación del tercer semestre del Ciclo Superior De Desarrollo De Aplicaciones Multiplataforma.
-Corresponde a la asignatura de Programación de servicios y procesos.
+Trabajo de desarrollo realizado durante el tercer semestre del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
+Corresponde a la asignatura de Programación de Servicios y Procesos.
 
-La práctica consiste en crear una aplicación que utilice la comunicación mediante sockets entre un cliente y un servidor, de forma que se replique este intercambio de mensajes:
+La práctica consiste en crear una aplicación que utilice la comunicación mediante sockets entre un cliente y un servidor, de manera que se replique este intercambio de mensajes:
 
 | Servidor                            | Cliente                                 |
 |-------------------------------------|-----------------------------------------|
@@ -25,7 +25,7 @@ La práctica consiste en crear una aplicación que utilice la comunicación medi
 | Servidor envía todas las tareas     | Cliente recibe la información de las tareas. |
 
 
-Las instrucciones en detalle del ejercicio se pueden consultar en el archívo M09 DAM PAC DESARROLLO.pdf
+Las instrucciones en detalle del ejercicio se pueden consultar en el archivo https://github.com/Zafion/PAC_Conection_Sockets/blob/main/M09%20DAM%20PAC%20DESARROLLO.pdf
 
 </br>
 
